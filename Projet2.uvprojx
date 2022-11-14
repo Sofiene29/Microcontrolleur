@@ -413,6 +413,16 @@
               <FileType>5</FileType>
               <FilePath>..\Drivers\Include\MyTimer.h</FilePath>
             </File>
+            <File>
+              <FileName>ADC.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\Drivers\Include\ADC.h</FilePath>
+            </File>
+            <File>
+              <FileName>ADC.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Drivers\Source\ADC.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -829,6 +839,16 @@
               <FileName>MyTimer.h</FileName>
               <FileType>5</FileType>
               <FilePath>..\Drivers\Include\MyTimer.h</FilePath>
+            </File>
+            <File>
+              <FileName>ADC.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\Drivers\Include\ADC.h</FilePath>
+            </File>
+            <File>
+              <FileName>ADC.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Drivers\Source\ADC.c</FilePath>
             </File>
           </Files>
         </Group>

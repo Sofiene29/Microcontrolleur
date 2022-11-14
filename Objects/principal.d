@@ -9,3 +9,4 @@
 .\objects\principal.o: C:\Programdata\Keil\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h
 .\objects\principal.o: U:\4 IR\Drivers\Include\GPIO.h
 .\objects\principal.o: U:\4 IR\Drivers\Include\MyTimer.h
+.\objects\principal.o: U:\4 IR\Drivers\Include\ADC.h
